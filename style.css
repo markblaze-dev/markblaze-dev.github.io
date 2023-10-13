@@ -134,6 +134,7 @@ header .logo-circle{
   font-weight: 500;
   font-size: 1em;
   color: var(--black);
+  text-decoration: none;
 }
 .sci{
   position: absolute;
