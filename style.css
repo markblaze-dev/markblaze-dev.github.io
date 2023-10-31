@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 :root{
   --background-color: #fff;
@@ -20,7 +20,6 @@
 body{
   background: var(--background-color);
   color: var(--text-color);
-  transition: background 0.9s, color 0.9s;
 }
 header{
   position: absolute;
