@@ -104,6 +104,7 @@ header .logo-circle{
   flex-direction: column;
   background: var(--white);
   z-index: 4;
+  transition: 1.00s left;
 }
 .navigation.active{
   left: 0;
