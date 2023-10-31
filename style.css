@@ -125,9 +125,12 @@ header .logo-circle{
   color: var(--white);
 }
 .copyrightText{
-  position: absolute;
-  left: 100px;
-  bottom: 40px;
+  /* position: absolute; */
+  position: fixed;
+  /* left: 100px; */
+  left: 10px;
+  /* bottom: 40px; */
+  bottom: 10px;
   z-index: 5;
   font-weight: 500;
   font-size: 1em;
@@ -135,9 +138,12 @@ header .logo-circle{
   text-decoration: none;
 }
 .sci{
-  position: absolute;
-  right: 100px;
-  bottom: 40px;
+  /* position: absolute; */
+  position: fixed;
+  /* right: 100px; */
+  right: 10px;
+  /* bottom: 40px;*/
+  bottom: 10px;
   z-index: 5;
   display: flex;
   flex-direction: column;
