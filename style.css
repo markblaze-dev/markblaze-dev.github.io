@@ -128,8 +128,7 @@ header .logo-circle{
 .copyrightText{
   /* position: absolute; */
   position: fixed;
-  /* left: 100px; */
-  left: 10px;
+  left: 100px;
   /* bottom: 40px; */
   bottom: 25px;
   z-index: 5;
@@ -141,8 +140,7 @@ header .logo-circle{
 .sci{
   /* position: absolute; */
   position: fixed;
-  /* right: 100px; */
-  right: 10px;
+  right: 100px;
   /* bottom: 40px;*/
   bottom: 25px;
   z-index: 5;
