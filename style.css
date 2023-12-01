@@ -58,7 +58,11 @@ table {
   width: 100%;
 }
 
-a {
+.profile-link {
+  display: inline-block;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
   text-decoration: none;
 }
 
