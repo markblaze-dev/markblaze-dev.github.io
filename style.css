@@ -15,6 +15,7 @@ body {
   align-items: center;
 }
 
+/* overall appearance */
 main.table {
   width: 82vw;
   height: 90vh;
@@ -48,7 +49,7 @@ main.table {
 
 .table__body::-webkit-scrollbar-thumb { 
   border-radius: .5rem;
-  background-color: #0004;
+  background-color: #3af0f0;
   visibility: hidden;
 }
 
